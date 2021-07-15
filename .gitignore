@@ -1,0 +1,12 @@
+/.idea/.idea.New Unity Project/.idea/*.gitignore
+/.idea/.idea.New Unity Project/.idea/*.xml
+/.vs/New Unity Project/v16/*.suo
+/*.vsconfig
+/*.csproj
+/.idea
+/.vs
+/Library
+/Logs
+/obj
+/Packages
+/*.sln
