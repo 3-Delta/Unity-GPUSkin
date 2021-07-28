@@ -15,3 +15,4 @@ Unity-GPUSkin学习
 参考学习:
 1. 模仿戴森球的Gpu动画机制 https://www.bilibili.com/read/cv9070200
 2. https://github.com/chengkehan/GPUSkinning
+3. https://zhuanlan.zhihu.com/p/392114602
