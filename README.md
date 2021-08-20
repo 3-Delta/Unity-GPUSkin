@@ -16,6 +16,7 @@ Unity-GPUSkin学习
 1. 模仿戴森球的Gpu动画机制 https://www.bilibili.com/read/cv9070200
 2. https://github.com/chengkehan/GPUSkinning
 3. https://zhuanlan.zhihu.com/p/392114602
+4. https://zhuanlan.zhihu.com/p/50640269
 
 考虑：
 1. 模型的Lod, 能否使用几何着色器动态配合计算Lod
