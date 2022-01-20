@@ -18,6 +18,7 @@ Unity-GPUSkin学习
 3. https://zhuanlan.zhihu.com/p/392114602
 4. https://zhuanlan.zhihu.com/p/50640269
 5. https://zznewclear13.github.io/posts/unity-gpu-skinning-with-animator-controller/
+6. https://zznewclear13.github.io/posts/accelerate-gaussian-blur-using-group-shared-memory/ 用计算着色器每个groupthread共享的sharememory，节省高斯模糊采样数
 
 考虑：
 1. 模型的Lod, 能否使用几何着色器动态配合计算Lod
