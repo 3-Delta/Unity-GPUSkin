@@ -17,6 +17,7 @@ Unity-GPUSkin学习
 2. https://github.com/chengkehan/GPUSkinning
 3. https://zhuanlan.zhihu.com/p/392114602
 4. https://zhuanlan.zhihu.com/p/50640269
+5. https://zznewclear13.github.io/posts/unity-gpu-skinning-with-animator-controller/
 
 考虑：
 1. 模型的Lod, 能否使用几何着色器动态配合计算Lod
